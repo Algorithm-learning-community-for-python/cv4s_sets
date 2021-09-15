@@ -8,13 +8,19 @@ cuda10.1
 
 pip install -i http://pypi.douban.com/simple/ \
 --trusted-host pypi.douban.com scikit-image opencv-python mnist
+
 # Download data
+
 pip install visdom \
 python -m visdom.server # 或者直接visdom\
 down_datatses-->python vis_down_datas.py 
+
 # train
+
 python train.py 
+
 # detect
+
 python detect.py 
 
 
