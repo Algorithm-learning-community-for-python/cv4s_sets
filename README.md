@@ -18,7 +18,7 @@ python train.py
 python detect.py 
 
 
-![](./mis/images/Screens.png)
+![](./mimis_vis_cv/images/Screens.png)
 
 
 ImportError: /usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found
